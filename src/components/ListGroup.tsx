@@ -1,8 +1,8 @@
 function ListGroup() {
     const items = [
-        'new york',
-        'jammu',
-        'paloura',
+        'abc',
+        'def',
+        'ghk',
     ];
 
     return (
